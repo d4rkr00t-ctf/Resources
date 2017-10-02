@@ -103,7 +103,31 @@ ExifTool - http://www.sno.phy.queensu.ca/~phil/exiftool/<br>
 Digital Forensics Framework (DFF) - http://www.digital-forensic.org/download/<br>
 Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution - http://www.caine-live.net/<br>
 The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
-Volatility - http://code.google.com/p/volatility/<br>
+
+*Tools used for solving Forensics challenges*
+
+- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys
+  - `apt-get install aircrack-ng`
+- [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
+  - `apt-get install audacity`
+- [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
+  - `apt-get install samdump2 bkhive`
+- [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
+- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
+- [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
+- [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
+- [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel
+- [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
+  - `apt-get install foremost`
+- [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
+- [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
+- [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
+- [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
+- [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
+- [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
+- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
 
 
 # Crypto:<br>
