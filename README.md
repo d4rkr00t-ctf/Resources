@@ -67,12 +67,18 @@ wxHexEditor - http://www.wxhexeditor.org/download.php<br>
 Exe unpackers - Unpacking Kit 2012 - http://forum.exetools.com/showthread.php?t=13610<br>
 
 # Networking:<br>
-Wireshark, tshark - https://www.wireshark.org/download.html<br>
-OpenVPN - https://openvpn.net/<br>
-OpenSSL - https://www.openssl.org/related/binaries.html<br>
-tcpdump - http://www.tcpdump.org/<br>
-netcat - http://netcat.sourceforge.net/<br>
-nmap - http://nmap.org/download.html<br>
+
+*Tools used for solving Networking challenges* 
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
+  - `apt-get install wireshark`
+-[OpenVPN](https://openvpn.net/)
+-[OpenSSL](https://www.openssl.org/related/binaries.html)
+-[tcpdump](http://www.tcpdump.org/)
+-[netcat](http://netcat.sourceforge.net/)
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
+- [Zmap](https://zmap.io/) - an open-source network scanner
 
 # Steganography:<br>
 OpenStego - http://www.openstego.info/<br>
