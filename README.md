@@ -131,11 +131,19 @@ The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
 
 
 # Crypto:<br>
-Cryptool - https://www.cryptool.org/<br>
-hashpump - https://github.com/bwall/HashPump<br>
-Sage - http://www.sagemath.org/<br>
-John the Ripper - http://www.openwall.com/john/<br>
-xortool - https://github.com/hellman/xortool<br>
+
+*Tools used for solving Crypto challenges*
+
+-[Cryptool](https://www.cryptool.org/)
+-[hashpump](https://github.com/bwall/HashPump)
+-[Sage](http://www.sagemath.org/)
+-[John the Ripper](http://www.openwall.com/john/)
+- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
+- [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
+- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
+- [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+
 # Online tools:<br>
 http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
