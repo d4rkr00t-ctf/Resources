@@ -144,6 +144,32 @@ The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 
+## Bruteforcers
+
+*Tools used for various kind of bruteforcing (passwords etc.)*
+
+- [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
+- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
+- [John The Ripper](http://www.openwall.com/john/) - Password Cracker
+- [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
+- [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
+- [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
+
+## Exploits
+
+*Tools used for solving Exploits challenges*
+
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
+- [Metasploit](http://www.metasploit.com/) - Penetration testing software
+- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
+  - `gem install one_gadget`
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
+- [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit
+
+
 # Online tools:<br>
 http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
