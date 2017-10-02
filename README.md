@@ -99,12 +99,6 @@ Computer Aided INvestigative Environment (CAINE) Linux forensics live distributi
 The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
 Volatility - http://code.google.com/p/volatility/<br>
 
-# Scripting / PPC (Professional Programming and Coding):<br>
-Text editors:<br>
-Sublime Text - http://www.sublimetext.com/<br>
-Notepad++ - http://notepad-plus-plus.org/<br>
-vim - http://www.vim.org/<br>
-emacs - http://www.gnu.org/software/emacs/<br>
 
 # Crypto:<br>
 Cryptool - https://www.cryptool.org/<br>
@@ -117,4 +111,4 @@ http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
 http://rumkin.com/tools/cipher/<br>
 Modules for python - pycrypto - https://www.dlitz.net/software/pycrypto/<br>
-# Made With ♥ for Moroccan CTF Community
+
