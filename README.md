@@ -176,3 +176,8 @@ http://www.cryptool-online.org/<br>
 http://rumkin.com/tools/cipher/<br>
 Modules for python - pycrypto - https://www.dlitz.net/software/pycrypto/<br>
 
+*Various kind of useful services available around the internet*
+
+- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
+- [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
+
