@@ -134,10 +134,10 @@ The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
 
 *Tools used for solving Crypto challenges*
 
--[Cryptool](https://www.cryptool.org/)
--[hashpump](https://github.com/bwall/HashPump)
--[Sage](http://www.sagemath.org/)
--[John the Ripper](http://www.openwall.com/john/)
+- [Cryptool](https://www.cryptool.org/)
+- [hashpump](https://github.com/bwall/HashPump)
+- [Sage](http://www.sagemath.org/)
+- [John the Ripper](http://www.openwall.com/john/)
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
