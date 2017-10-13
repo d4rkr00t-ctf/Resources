@@ -1,0 +1,56 @@
+- Buffer overflows - http://phrack.org/issues/49/14.html
+- Format String Vulnerabilities - http://www.cis.syr.edu/~wedu/Teaching/cis643/LectureNotes_New/Format_String.pdf
+- Heap exploitation - https://github.com/shellphish/how2heap
+- Reverse Engineering - http://thelegendofrandom.com/blog/sample-page
+- Lots of hacking video tutorials - http://www.securitytube.net/
+- SQL Injections (walkthrough on SecurityTube) - https://github.com/Audi-1/sqli-labs
+- Hacking: The Art of Exploitation - http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441
+- https://trailofbits.github.io/ctf/
+- CBC bit flipping - http://resources.infosecinstitute.com/cbc-byte-flipping-attack-101-approach/
+- Padding oracle attacks - https://www.youtube.com/watch?v=f8xQeBi7zpg
+- Course taught at RPI on modern binary exploitation - https://github.com/RPISEC/MBE
+- Reversing tutorials for beginners: https://tuts4you.com/download.php?list.17
+- Reversing tutorials: https://mammon.github.io/tales/
+- http://www.binary-auditing.com/
+
+## Wargames
+- Web
+  - https://xss-game.appspot.com/
+  - http://prompt.ml/
+  - https://github.com/cure53/XSSChallengeWiki/wiki
+- Binary Exploitation
+  - https://microcorruption.com/
+  - http://smashthestack.org/
+  - http://pwnable.kr/
+  - https://pwnable.tw/
+- Reversing
+  - http://crackmes.de/
+  - http://reversing.kr/
+  - http://challenges.re/
+- Crypto
+  - http://potatopla.net/crypto/
+  - http://cryptopals.com/
+  - https://id0-rsa.pub/
+- Other
+  - http://overthewire.org/wargames/
+  - http://root-me.org/
+  - https://exploit-exercises.com/
+  - http://www.praetorian.com/challenge...
+  - http://www.hackthissite.org/
+  - http://www.try2hack.nl/
+  - http://www.hackertest.net/
+  - http://www.hackthis.co.uk/
+  - http://www.mod-x.com/main.php
+  - http://www.net-force.nl/challenges/
+  - http://www.bright-shadows.net/
+  - http://www.trythis0ne.com/
+  - https://hax.tor.hu/welcome/
+  - https://pwn0.com/
+  - https://www.vulnhub.com/
+  - http://pages.cs.wisc.edu/~riccardo/...
+  - https://ringzer0team.com/challenges
+  - https://ctfs.me/
+  - https://backdoor.sdslabs.co/
+  - https://ctflearn.com/
+- Past CTF best challenges
+  - https://pastebin.com/uyifxgPu
