@@ -103,6 +103,7 @@ GIMP - http://www.gimp.org/downloads/<br>
 Audacity - http://audacity.sourceforge.net/download/<br>
 MP3Stego - http://www.petitcolas.net/steganography/mp3stego/<br>
 ffmpeg (for video analysis) - https://www.ffmpeg.org/download.html<br>
+zsteg - https://github.com/zed-0xff/zsteg
 
 # Forensics:<br>
 dd - unix/linux tool<br>
