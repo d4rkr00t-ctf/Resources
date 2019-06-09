@@ -156,6 +156,7 @@ The Sleuth Kit (TSK) - http://www.sleuthkit.org/sleuthkit/download.php<br>
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
 
 ## Bruteforcers
 
